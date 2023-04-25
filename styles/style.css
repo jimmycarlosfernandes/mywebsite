@@ -172,6 +172,10 @@ width: 50%;
         flex-direction: column-reverse;
         padding: 5%;
     }
+    .presentation__about__me {
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
    .presentation__introduction {
         width: auto;
    }
