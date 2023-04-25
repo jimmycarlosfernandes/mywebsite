@@ -159,7 +159,7 @@ color: var(--highlight-color);
 width: 50%;
 }
 
-@media (max-width:1200px ) {
+@media (max-width:700px ) {
     .header {
         padding: 5%;
     }
@@ -178,5 +178,8 @@ width: 50%;
     }
    .presentation__introduction {
         width: auto;
+   }
+   .presentation__image {
+    width: auto;
    }
 }
