@@ -83,7 +83,6 @@ body {
     font-size: 1.5rem;
 }
 .presentation__links_link {
-    /* background-color: #22d4fd; */
     display: flex;
     justify-content: center;
     width: 50%;
