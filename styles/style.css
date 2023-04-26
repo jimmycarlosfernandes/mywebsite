@@ -182,9 +182,9 @@ width: 50%;
     width: 75%;
    }
    .presentation__introduction__welcome {
-    font-size: 1.563rem;
+    font-size: 24px;
    }
    .header__nav__link {
-    font-size: 1.25rem;
+    font-size: 22px;
    }
 }
