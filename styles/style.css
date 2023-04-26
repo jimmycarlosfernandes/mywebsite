@@ -181,4 +181,7 @@ width: 50%;
    .presentation__image {
     width: 75%;
    }
+   .presentation__introduction__welcome {
+    font-size: 1.125rem;
+   }
 }
